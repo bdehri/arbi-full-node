@@ -18,3 +18,7 @@ docker run -d -v ~/data/arbitrum:/home/user/.arbitrum -p 0.0.0.0:8547:8547 -p 0.
 ```
 docker logs -f a6aea82506c8
 ```
+
+6 Cpu
+8 Gb RAM
+400 Gb SSD Storage yeterli olacaktır.
