@@ -21,4 +21,4 @@ docker logs --tail 100 a6aea82506c8
 
 6 Cpu
 8 Gb RAM
-400 Gb SSD Hafızaya sahip bir makina yeterli olacaktır.
+1200 Gb SSD Hafızaya sahip bir makina yeterli olacaktır.
